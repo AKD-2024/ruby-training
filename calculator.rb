@@ -37,5 +37,4 @@ def performCalculation(num1, op, num2)
     end
 end
 
-
 puts ("Result = " + performCalculation(num1, op, num2).to_s)
